@@ -19,7 +19,7 @@
         <cdi-unit.version>3.1.4</cdi-unit.version>
         <javaee-api.version>6.0-6</javaee-api.version>
         <junit.version>4.13.2</junit.version>
-        <maven-assembly-plugin.version>2.6</maven-assembly-plugin.version>
+        <maven-assembly-plugin.version>3.7.1</maven-assembly-plugin.version>
         <tomee-maven-plugin.version>1.7.5</tomee-maven-plugin.version>
         <weld-se-core.version>6.0.0.Final</weld-se-core.version>
     </properties>
