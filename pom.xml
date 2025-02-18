@@ -20,7 +20,7 @@
         <javaee-api.version>6.0-6</javaee-api.version>
         <junit.version>4.12</junit.version>
         <maven-assembly-plugin.version>2.6</maven-assembly-plugin.version>
-        <tomee-maven-plugin.version>1.7.3</tomee-maven-plugin.version>
+        <tomee-maven-plugin.version>1.7.5</tomee-maven-plugin.version>
         <weld-se-core.version>1.1.33.Final</weld-se-core.version>
     </properties>
 
