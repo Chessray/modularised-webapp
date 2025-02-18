@@ -16,7 +16,7 @@
     </modules>
 
     <properties>
-        <cdi-unit.version>3.1.4</cdi-unit.version>
+        <cdi-unit.version>5.0.0-EA7</cdi-unit.version>
         <javaee-api.version>6.0-6</javaee-api.version>
         <junit.version>4.13.2</junit.version>
         <maven-assembly-plugin.version>2.6</maven-assembly-plugin.version>
