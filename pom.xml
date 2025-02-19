@@ -21,7 +21,7 @@
         <junit.version>4.13.2</junit.version>
         <maven-assembly-plugin.version>3.7.1</maven-assembly-plugin.version>
         <tomee-maven-plugin.version>1.7.5</tomee-maven-plugin.version>
-        <weld-se-core.version>6.0.0.Final</weld-se-core.version>
+        <weld-se-core.version>6.0.1.Final</weld-se-core.version>
     </properties>
 
     <dependencyManagement>
