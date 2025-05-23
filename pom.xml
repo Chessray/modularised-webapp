@@ -33,7 +33,7 @@
                 <scope>test</scope>
             </dependency>
             <dependency>
-                <groupId>org.jglue.cdi-unit</groupId>
+                <groupId>io.github.cdi-unit</groupId>
                 <artifactId>cdi-unit</artifactId>
                 <version>${cdi-unit.version}</version>
                 <scope>test</scope>
